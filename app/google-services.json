@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "495182441337",
+    "project_id": "foodietracker-b812b",
+    "storage_bucket": "foodietracker-b812b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495182441337:android:5c7dee86d7854872ea9da8",
+        "android_client_info": {
+          "package_name": "com.company.foodietracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCco_urH2Kc8XMvTmhbeRxXJDroPKEz-1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495182441337:android:0937e1a1a98c7809ea9da8",
+        "android_client_info": {
+          "package_name": "com.example.foodietracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCco_urH2Kc8XMvTmhbeRxXJDroPKEz-1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
